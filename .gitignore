@@ -335,3 +335,6 @@ xcuserdata/
 # Project IO
 inputs/
 outputs/
+foutput/
+input/
+output/
